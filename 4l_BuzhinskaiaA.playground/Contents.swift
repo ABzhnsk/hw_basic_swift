@@ -164,7 +164,7 @@ let ferrariF40 = SportCar(carBrand: "Ferrari",
 
 let peugeotExpert = TrunkCar(carBrand: "Peugeot",
                              carModel: "Expert 3",
-                             carBody: "",
+                             carBody: "Van",
                              transmission: "Van",
                              typeEngine: "Diesel",
                              yearOfIssue: 2020,
